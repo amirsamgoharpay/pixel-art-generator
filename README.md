@@ -14,7 +14,7 @@ actually generate 4 rectangle in right side of file and then they will get clone
 <h2 align="center">usage  </h2>
 
 > wise man : "bro use it for fun"  
-<p align="center"><a href="https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/happy.svg">smileface</a> <b>generated with the code</b> </p>
+<p align="center"><a href="https://github.com/amirsamgoharpay/pixel-art-generator/blob/main/happy.svg">smileface</a> <b>generated with the code</b> </p>
 
 ---
 you can use this code in your site or apps project with python for generating random default profiles with this code  
