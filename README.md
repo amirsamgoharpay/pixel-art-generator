@@ -2,7 +2,7 @@
  <p align="center"><img src="https://img.shields.io/github/directory-file-count/amirsamgoharpay/pixel-art-generator">
 <img src="https://img.shields.io/github/repo-size/amirsamgoharpay/pixel-art-generator">
   <img src="https://img.shields.io/github/followers/amirsamgoharpay">
-  <img src="https://img.shields.io/appveyor/tests/amirsamgoharpay/pixel-art-generator">
+
 
 </p>
 
