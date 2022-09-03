@@ -26,7 +26,7 @@ you can use this code in your site or apps project with python for generating ra
 ```python
 from artgen import creator
 creator(filename)
-#this code will generate the art in other files (filename replace with the name of svg file you want
+#this code will generate the art in other files (filename replace with the name of svg file you want)
 ```
 
 <h2 align="center">how to use  </h2>  
