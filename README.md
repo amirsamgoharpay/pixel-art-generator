@@ -43,7 +43,7 @@ you also need to download 2 packages : random , pycario
 pip install random
 ```
 ```
-pip install pycario
+pip install pycairo
 ```
 
 <h2 align="center">licence  </h2>  
