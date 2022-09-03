@@ -17,7 +17,7 @@ actually generate 4 rectangle in right side of file and then they will get clone
 
 
 
-![smileface](https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/happy.svg)   
+[smileface](https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/happy.svg)   
 <p align="center"><b>generated with the code</b> </p>
 
 ---
