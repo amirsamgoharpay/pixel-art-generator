@@ -2,6 +2,7 @@
 
  <p align="center">
  <img src="https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/pixel_art_generator.png">
+ <br>
  <img src="https://img.shields.io/github/directory-file-count/amirsamgoharpay/pixel-art-generator">
 <img src="https://img.shields.io/github/languages/code-size/amirsamgoharpay/pixel-art-generator">
   <img src="https://img.shields.io/github/followers/amirsamgoharpay">
