@@ -17,22 +17,26 @@ actually generate 4 rectangle in right side of file and then they will get clone
 <p align="center"><a href="https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/happy.svg">smileface</a> <b>generated with the code</b> </p>
 
 ---
-you can use this code in your site or apps project with python for generating random default profiles with this code
+you can use this code in your site or apps project with python for generating random default profiles with this code  
+
 ```python
 from artgen import creator
 creator(filename)
 #this code will generate the art in other files (filename replace with the name of svg file you want
 ```
 
-<h2 align="center">how to use  </h2>
+<h2 align="center">how to use  </h2>  
+
 just use this command in your git environment to clone the code  
 ```
 git clone https://github.com/amirsamgoharpay/pixel-art-generator  
 ```
 or you can download the code from the download green button  
-<h2 align="center">licence  </h2>
+<h2 align="center">licence  </h2>  
+
 **got you bro**  
 > no licence bro  
 <h2 align="center">last words </h2> 
+
 - feel free to do anything in this repo  
 - have a nice day  
