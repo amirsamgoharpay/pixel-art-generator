@@ -21,7 +21,12 @@ actually generate 4 rectangle in right side of file and then they will get clone
 <p align="center"><b>generated with the code</b> </p>
 
 ---
-you can use this code in your site or apps project with python for generating random default profiles  
+you can use this code in your site or apps project with python for generating random default profiles with this code
+```python
+from artgen import creator
+creator(filename)
+#this code will generate the art in other files (filename replace with the name of svg file you want
+```
 
 <h2 align="center">how to use  </h2>
 just use this command in your git environment to clone the code  
