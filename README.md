@@ -1,5 +1,8 @@
 <h1 align="center"> Pixel Art Generator</h1>
- <p align="center"><img src="https://img.shields.io/github/directory-file-count/amirsamgoharpay/pixel-art-generator">
+
+ <p align="center">
+ <img src="https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/pixel_art_generator.png">
+ <img src="https://img.shields.io/github/directory-file-count/amirsamgoharpay/pixel-art-generator">
 <img src="https://img.shields.io/github/languages/code-size/amirsamgoharpay/pixel-art-generator">
   <img src="https://img.shields.io/github/followers/amirsamgoharpay">
 
