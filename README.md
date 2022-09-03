@@ -35,7 +35,17 @@ just use this command in your git environment to clone the code
 ```
 git clone https://github.com/amirsamgoharpay/pixel-art-generator  
 ```
-or you can download the code from the download green button  
+
+or you can download the code from the download green button
+you also need to download 2 packages : random , pycario
+
+```
+pip install random
+```
+```
+pip install pycario
+```
+
 <h2 align="center">licence  </h2>  
 
 **got you bro**  
