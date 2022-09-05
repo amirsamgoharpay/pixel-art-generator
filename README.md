@@ -52,5 +52,6 @@ pip install pycairo
 > no licence bro  
 <h2 align="center">last words </h2> 
 
+- I also made a site for this random generator you can check it [here](amirsam.pythonanywhere.com)
 - feel free to do anything in this repo  
 - have a nice day  
