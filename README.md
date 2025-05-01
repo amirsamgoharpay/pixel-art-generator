@@ -12,12 +12,12 @@
 
 <h1 align="center">how code works ? </h1> 
 
-this code will generate random 8 rectangle that in svg file  
-actually generate 4 rectangle in right side of file and then they will get clone in the left side of file
+this code will generate random 8 rectangles in a svg file  
+actually it generates 4 rectangles in right side and it will get cloned in the left side(symmetry)
 
 <h2 align="center">usage  </h2>
 
-> wise man : "bro use it for fun"  
+> once a wise man said: "bro use it for fun"  
 <p align="center"><a href="https://github.com/amirsamgoharpay/pixel-art-generator/blob/main/happy.svg">smileface</a> <b>generated with the code</b> </p>
 
 ---
