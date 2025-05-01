@@ -48,8 +48,8 @@ pip install pycairo
 
 <h2 align="center">licence  </h2>  
 
-**got you bro**  
-> no licence bro  
+**got you**  
+> wtf is a licence? 
 <h2 align="center">last words </h2> 
 
 - I also made a site for this random generator you can check it [here](https://amirsam.pythonanywhere.com)
