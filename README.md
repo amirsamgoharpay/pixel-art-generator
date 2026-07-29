@@ -7,7 +7,6 @@
 
 <img src="https://img.shields.io/github/directory-file-count/amirsamgoharpey/pixel-art-generator">
 <img src="https://img.shields.io/github/languages/code-size/amirsamgoharpey/pixel-art-generator">
-<img src="https://img.shields.io/github/followers/amirsamgoharpey">
 
 </p>
 
@@ -44,7 +43,7 @@ Each generated image contains:
 Generated with this code:
 
 <p align="center">
-<a href="https://github.com/amirsamgoharpey/pixel-art-generator/blob/main/happy.svg">
+<img src="https://raw.githubusercontent.com/amirsamgoharpey/pixel-art-generator/main/happy.svg">
 happy.svg
 </a>
 </p>
