@@ -1,57 +1,110 @@
-<h1 align="center"> Pixel Art Generator</h1>
+<h1 align="center">Pixel Art Generator</h1>
 
- <p align="center">
- <img src="https://raw.githubusercontent.com/amirsamgoharpay/pixel-art-generator/main/pixel_art_generator.png">
- <br>
- <img src="https://img.shields.io/github/directory-file-count/amirsamgoharpay/pixel-art-generator">
-<img src="https://img.shields.io/github/languages/code-size/amirsamgoharpay/pixel-art-generator">
-  <img src="https://img.shields.io/github/followers/amirsamgoharpay">
+<p align="center">
+<img src="https://raw.githubusercontent.com/amirsamgoharpey/pixel-art-generator/main/pixel_art_generator.png">
 
+<br>
+
+<img src="https://img.shields.io/github/directory-file-count/amirsamgoharpey/pixel-art-generator">
+<img src="https://img.shields.io/github/languages/code-size/amirsamgoharpey/pixel-art-generator">
+<img src="https://img.shields.io/github/followers/amirsamgoharpey">
 
 </p>
 
-<h1 align="center">how code works ? </h1> 
+---
 
-this code will generate random 8 rectangles in a svg file  
-actually it generates 4 rectangles in right side and it will get cloned in the left side(symmetry)
+## About
 
-<h2 align="center">usage  </h2>
+A small procedural pixel art generator written in Python.
 
-> once a wise man said: "bro use it for fun"  
-<p align="center"><a href="https://github.com/amirsamgoharpay/pixel-art-generator/blob/main/happy.svg">smileface</a> <b>generated with the code</b> </p>
+The program creates random symmetric pixel patterns and exports them as SVG files.
+
+The idea behind this project was to experiment with:
+- random generation
+- geometric patterns
+- symmetry
+- SVG creation
 
 ---
-you can use this code in your site or apps project with python for generating random default profiles with this code  
 
-```python
-from artgen import creator
-creator(filename)
-#this code will generate the art in other files (filename replace with the name of svg file you want)
+## How it works
+
+The generator creates 4 random rectangles on one side of the canvas, then mirrors them to the other side to create a symmetric design.
+
+Each generated image contains:
+- Random color selection
+- Random rectangle positions
+- Horizontal symmetry
+- SVG output
+
+---
+
+## Example
+
+Generated with this code:
+
+<p align="center">
+<a href="https://github.com/amirsamgoharpey/pixel-art-generator/blob/main/happy.svg">
+happy.svg
+</a>
+</p>
+
+---
+
+## Usage
+
+Clone the repository:
+
+```bash
+git clone https://github.com/amirsamgoharpey/pixel-art-generator
 ```
 
-<h2 align="center">how to use  </h2>  
+Install the required package:
 
-just use this command in your git environment to clone the code  
-```
-git clone https://github.com/amirsamgoharpay/pixel-art-generator  
-```
-
-or you can download the code from the download green button
-you also need to download 2 packages : random , pycario
-
-```
-pip install random
-```
-```
+```bash
 pip install pycairo
 ```
 
-<h2 align="center">licence  </h2>  
+Generate your own pixel art:
 
-**got you**  
-> wtf is a licence? 
-<h2 align="center">last words </h2> 
+```python
+from artgen import creator
 
-- I also made a site for this random generator you can check it [here](https://amirsam.pythonanywhere.com)
-- feel free to do anything in this repo  
-- have a nice day  
+creator("filename")
+```
+
+This will create:
+
+```
+filename.svg
+```
+
+---
+
+## Using it in other projects
+
+You can also import the generator and use it inside your own Python projects:
+
+```python
+from artgen import creator
+
+creator("profile_picture")
+```
+
+For example, it can be used for generating random default images or simple procedural graphics.
+
+---
+
+## License
+
+This project is open source and free to use.
+
+Feel free to modify, improve, or use the code in your own projects.
+
+---
+
+## Last words
+
+I originally made this project just for fun and to explore procedural generation.
+
+Have a nice day :)
